@@ -1,0 +1,58 @@
+{
+   "data":[
+      {
+         "id":1,
+         "title":"Sample 1",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi1.jpeg?alt=media&token=67608627-d050-45cd-8591-cf59a73285e6",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi1.jpeg?alt=media&token=67608627-d050-45cd-8591-cf59a73285e6"
+      },
+      {
+         "id":2,
+         "title":"Sample 2",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi2.jpeg?alt=media&token=920b266d-8c0c-4cc5-b1c2-8efa58cd03fb",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi2.jpeg?alt=media&token=920b266d-8c0c-4cc5-b1c2-8efa58cd03fb"
+      },
+      {
+         "id":3,
+         "title":"Sample 3",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi3.jpeg?alt=media&token=f803153e-95b4-4a4b-8295-8c7ca6bb59e6",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi3.jpeg?alt=media&token=f803153e-95b4-4a4b-8295-8c7ca6bb59e6"
+      },
+      {
+         "id":4,
+         "title":"Sample 4",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi4.jpeg?alt=media&token=499cdeb5-90d4-4266-ba46-0f512c5be9e9",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi4.jpeg?alt=media&token=499cdeb5-90d4-4266-ba46-0f512c5be9e9"
+      },
+      {
+         "id":5,
+         "title":"Sample 5",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi5.jpeg?alt=media&token=c9818905-145c-41df-8f6c-4ffc10453490",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi5.jpeg?alt=media&token=c9818905-145c-41df-8f6c-4ffc10453490"
+      },
+      {
+         "id":6,
+         "title":"Sample 6",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi6.jpeg?alt=media&token=138ec644-d379-41ad-9117-1bb681b58eee",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi6.jpeg?alt=media&token=138ec644-d379-41ad-9117-1bb681b58eee"
+      },
+      {
+         "id":7,
+         "title":"Sample 7",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi7.jpeg?alt=media&token=eced69c1-5da2-49c7-b6e7-df3d8ec70464",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi7.jpeg?alt=media&token=eced69c1-5da2-49c7-b6e7-df3d8ec70464"
+      },
+      {
+         "id":8,
+         "title":"Sample 8",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi8.jpeg?alt=media&token=02637b8c-24d8-4ffe-a74a-c09cb47e55cf",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi8.jpeg?alt=media&token=02637b8c-24d8-4ffe-a74a-c09cb47e55cf"
+      },
+      {
+         "id":8,
+         "title":"Sample 8",
+         "url":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi9.jpeg?alt=media&token=481ecf57-73f8-4166-a01b-bf3ed4364ea9",
+         "thumbUrl":"https://firebasestorage.googleapis.com/v0/b/reactmovie-a2210.appspot.com/o/dokumentasi%2Fdokumentasi9.jpeg?alt=media&token=481ecf57-73f8-4166-a01b-bf3ed4364ea9"
+      }
+   ]
+}
